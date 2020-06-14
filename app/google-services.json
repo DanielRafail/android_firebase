@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "614118890863",
+    "firebase_url": "https://qadanielgrant.firebaseio.com",
+    "project_id": "qadanielgrant",
+    "storage_bucket": "qadanielgrant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614118890863:android:187a940e33d1e4a9",
+        "android_client_info": {
+          "package_name": "com.example.android.QADanielGrant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614118890863-4c4l4h0l9d0s0uig33bvt2k952pogdrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.QADanielGrant",
+            "certificate_hash": "8c09f67c2274f8ff12cafc815d1056e58d3d3696"
+          }
+        },
+        {
+          "client_id": "614118890863-ri648ktn9lafusbieampb7mhkug08db4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.QADanielGrant",
+            "certificate_hash": "e7f8838a7549a0eeba67e299e3a9519ecc31e384"
+          }
+        },
+        {
+          "client_id": "614118890863-nnanm4b7h9clchomr2fasc5ecejgckcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2kH66blhE5VMn1wE5JfsShKZusy_NRYs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614118890863-nnanm4b7h9clchomr2fasc5ecejgckcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

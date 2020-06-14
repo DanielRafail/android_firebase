@@ -1,0 +1,16 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/about"
+        android:showAsAction="ifRoom|withText"
+        android:title="about"/>
+    <item
+        android:id="@+id/random"
+        android:showAsAction="ifRoom|withText"
+        android:title="random"/>
+    <item
+        android:id="@+id/last"
+        android:showAsAction="ifRoom|withText"
+        android:title="last"/>
+</menu>

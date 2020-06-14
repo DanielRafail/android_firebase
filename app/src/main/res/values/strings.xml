@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QADanielGrant</string>
+    <string name="aboutTitle">Question and Answer Quizlet</string>
+    <string name="aboutDescription">This quizlet allows you to select 4 categories between Animals, Programming, Video games and Cereal.
+                                    Every category contains 4 questions (hins of what type of question) that you get to choose from. If you do not know the answer to that selected question there is nothing to worry about!
+                                    Click on the question to reveal the answer! Happy studying :)
+    </string>
+    <string name="authors">Grant Manzano and Daniel Rafail</string>
+
+    <string name="app_desc">Second Assignment of Android class</string>
+    <string name = "title">Categories</string>
+    <string name = "about">About</string>
+    <string name = "random">Random</string>
+    <string name = "last">Last</string>
+    <string name = "questions">Questions</string>
+</resources>
+
